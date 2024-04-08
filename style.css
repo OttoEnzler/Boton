@@ -1,0 +1,35 @@
+#search{
+    color: rgb(60, 172, 173);
+    border-color: rgb(60, 172, 173);
+    background-color: rgb(244, 244, 244);
+    margin-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#more{
+    color:white;
+    background-color: rgb(1, 208, 179);
+    border-color: rgb(1, 208, 179);
+    border-radius: 50%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+#create{
+    color:white;
+    background-color:rgb(42, 120, 228);
+    box-shadow: 3px 5px 0px black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size:17px;
+}
